@@ -23,4 +23,5 @@
 #bitnami/airflow:2.10.2-debian-12-r0
 #bitnami/airflow-worker:2.10.2-debian-12-r0
 #python:3.12
-ubuntu:20.04
+#ubuntu:20.04
+mysql:5.7.34

@@ -41,4 +41,8 @@
 #kubernetesui/dashboard-metrics-scraper:1.2.2
 #kubernetesui/dashboard-web:1.7.0
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
-kong:3.8
+#kong:3.8
+quay.io/prometheus/alertmanager:v0.28.1
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
+quay.io/prometheus/node-exporter:v1.9.1
+quay.io/prometheus/pushgateway:v1.11.1

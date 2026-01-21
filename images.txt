@@ -52,4 +52,5 @@
 #registry.k8s.io/nfd/node-feature-discovery:v0.17.3
 #v2fly/v2fly-core:latest
 #reg.kyverno.io/kyverno/kyvernopre:v1.16.0
-selenium/standalone-chrome:143.0.7499.169-20251212
+#selenium/standalone-chrome:143.0.7499.169-20251212
+neo4j:5.10

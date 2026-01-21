@@ -53,4 +53,8 @@
 #v2fly/v2fly-core:latest
 #reg.kyverno.io/kyverno/kyvernopre:v1.16.0
 #selenium/standalone-chrome:143.0.7499.169-20251212
-neo4j:5.10
+#neo4j:5.10
+jetstack/cert-manager-controller:v1.19.2
+jetstack/cert-manager-cainjector:v1.19.2
+jetstack/cert-manager-startupapicheck:v1.19.2
+jetstack/cert-manager-webhook:v1.19.2

@@ -58,6 +58,8 @@
 #quay.io/jetstack/cert-manager-cainjector:v1.19.2
 #quay.io/jetstack/cert-manager-startupapicheck:v1.19.2
 #quay.io/jetstack/cert-manager-webhook:v1.19.2
-quay.io/metallb/controller:v0.15.3
-quay.io/frrouting/frr:10.4.1
-quay.io/metallb/speaker:v0.15.3
+#quay.io/metallb/controller:v0.15.3
+#quay.io/frrouting/frr:10.4.1
+#quay.io/metallb/speaker:v0.15.3
+registry.k8s.io/ingress-nginx/controller:v1.14.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.5

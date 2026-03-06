@@ -65,4 +65,5 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.5
 #docker.io/traefik:v3.6.6
 #tacyuuhon/clickhouse-chproxy:1.26.3
-prom/prometheus:v2.45.0
+#prom/prometheus:v2.45.0
+apache/airflow:3.1.7
